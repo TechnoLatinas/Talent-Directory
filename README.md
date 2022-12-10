@@ -1,5 +1,5 @@
 # Talent Directory 🦄
-En este repositorio podrás encontrar TechnoLatinas talentosas.
+Find talented Technolatinas in this repository.
 ---------------------------------------
 ### Steps to add yourself to this repo
 
@@ -32,7 +32,7 @@ En este repositorio podrás encontrar TechnoLatinas talentosas.
 
 |  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
-| Alix Gallardo | Head of Product | Miami, USA | Liderazgo, Execution, Strategic Thinking | Remote or Onsite | agnamihira@gmail.com, [LinkedIn](https://www.linkedin.com/in/agnamihira/)  |
+| Alix Gallardo | Head of Product | Miami, USA | Liderazgo, Execution, Strategic Thinking | Remote or On site | agnamihira@gmail.com, [LinkedIn](https://www.linkedin.com/in/agnamihira/)  |
 
 ## [Colombia](#Colombia) 🇨🇴
 
