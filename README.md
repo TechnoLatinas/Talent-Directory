@@ -32,7 +32,7 @@ Find talented Technolatinas in this repository.
 
 |  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
-| Alix Gallardo | Head of Product | Miami, USA | Liderazgo, Execution, Strategic Thinking | Remote or On site | agnamihira@gmail.com, [LinkedIn](https://www.linkedin.com/in/agnamihira/)  |
+| Alix Gallardo | Head of Product | Miami, USA | Leadership, Execution, Strategic Thinking | Remote or On site | agnamihira@gmail.com, [LinkedIn](https://www.linkedin.com/in/agnamihira/)  |
 
 ## [Colombia](#Colombia) 🇨🇴
 
