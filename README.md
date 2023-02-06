@@ -13,15 +13,31 @@ Find talented Technolatinas in this repository.
 
 ---------------------------------------
 ## Countries
-
-  - [Mexico](#Mexico-) 
-  - [USA](#USA-)
-  - [Colombia](#Colombia-)
-  - [Venezuela](#Venezuela-)
-  - [Peru](#Peru-)
   - [Bolivia](#Bolivia-)
-  - [Reino Unido](#UK-)
+  - [Colombia](#Colombia-)
   - [España](#ES-)
+  - [Mexico](#Mexico-) 
+  - [Peru](#Peru-)
+  - [Reino Unido](#UK-)
+  - [USA](#USA-)  
+  - [Venezuela](#Venezuela-)
+  
+
+## [Bolivia](#Bolivia) 🇧🇴
+
+|  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
+| ------------- |-------------| -----| ------------- |-------------| -----|
+
+## [Colombia](#Colombia) 🇨🇴
+
+|  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
+| ------------- |-------------| -----| ------------- |-------------| -----|
+
+## [España](#ES-) 🇪🇸
+
+|  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
+| ------------- |-------------| -----| ------------- |-------------| -----|
+| Francis Santiago |DevOps - SRE | Madrid, Spain| Terraform, Ansible, Kubernetes, Docker, Prometheus, Grafana, PostgreSQL |Remote| santiagocfc@gmail.com, [Github](https://github.com/sancfc/sancfc), [LinkedIn](https://www.linkedin.com/in/sancfc/) |
 
 ## [Mexico](#Mexico) 🇲🇽
 
@@ -29,39 +45,31 @@ Find talented Technolatinas in this repository.
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Sara Hernández | Data Science | Mexico City, Mexico | Data Analysis | Remote or On site | hdzhernandez.sara@gmail.com |
 
-## [USA](#USA) 🇺🇲
-
-|  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
-| ------------- |-------------| -----| ------------- |-------------| -----|
-| Alix Gallardo | Head of Product | Miami, USA | Leadership, Execution, Strategic Thinking | Remote or On site | agnamihira@gmail.com, [LinkedIn](https://www.linkedin.com/in/agnamihira/)  |
-
-## [Colombia](#Colombia) 🇨🇴
-
-|  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
-| ------------- |-------------| -----| ------------- |-------------| -----|
-
-## [Venezuela](#Venezuela) 🇻🇪
-
-|  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
-| ------------- |-------------| -----| ------------- |-------------| -----|
-
 ## [Peru](#Peru) 🇵🇪
 
 |  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 
-## [Bolivia](#Bolivia) 🇧🇴
 
-|  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
-| ------------- |-------------| -----| ------------- |-------------| -----|
 
 ## [Reino Unido](#UK) 🇬🇧
 
 |  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Eva Navarro |Inteligencia artificial, Ciencia de Datos, Sistemas Complejos| Manchester, UK| Science, Education, Leadership, Critical and Creative Thinking|Remote or On site| eva.navarrolopez@gmail.com, [Website](https://www.evanavarro.org/), [LinkedIn](https://www.linkedin.com/in/evanavarrolopez/) |
-## [España](#ES-) 🇪🇸
+
+
+## [USA](#USA) 🇺🇲
 
 |  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
-| Francis Santiago |DevOps - SRE | Madrid, Spain| Terraform, Ansible, Kubernetes, Docker, Prometheus, Grafana, PostgreSQL |Remote| santiagocfc@gmail.com, [Github](https://github.com/sancfc/sancfc), [LinkedIn](https://www.linkedin.com/in/sancfc/) |
+| Alix Gallardo | Head of Product | Miami, USA | Leadership, Execution, Strategic Thinking | Remote or On site | agnamihira@gmail.com, [LinkedIn](https://www.linkedin.com/in/agnamihira/)  |
+
+
+## [Venezuela](#Venezuela) 🇻🇪
+
+|  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
+| ------------- |-------------| -----| ------------- |-------------| -----|
+
+
+
