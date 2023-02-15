@@ -14,7 +14,7 @@ Find talented Technolatinas in this repository.
 ---------------------------------------
 ## Countries
 
-  - [Mexico](#Mexico-) 
+  - [Mexico](#Mexico-)
   - [USA](#USA-)
   - [Colombia](#Colombia-)
   - [Venezuela](#Venezuela-)
@@ -59,3 +59,9 @@ Find talented Technolatinas in this repository.
 |  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Eva Navarro |Inteligencia artificial, Ciencia de Datos, Sistemas Complejos| Manchester, UK| Science, Education, Leadership, Critical and Creative Thinking|Remote or On site| eva.navarrolopez@gmail.com, [Website](https://www.evanavarro.org/), [LinkedIn](https://www.linkedin.com/in/evanavarrolopez/) |
+
+
+ ## [Irlanda](#UK) 🇮🇪
+ |  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
+| ------------- |-------------| -----| ------------- |-------------| -----|
+| Fabiola Acarapi |Product Manager, Quality Assurance, Ethereum, Blockchain | Dublin, IE| Education, Leadership and Human Rights|Remote or On site| fabiola29298@gmail.com, [Website](https://www.ulupicatech.com/), [LinkedIn](https://www.linkedin.com/in/fabiacarapi/) |
