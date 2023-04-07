@@ -44,6 +44,7 @@ Find talented Technolatinas in this repository.
 |  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
 | Sara Hernández | Data Science | Mexico City, Mexico | Data Analysis | Remote or On site | hdzhernandez.sara@gmail.com |
+| Alejandra Pérez | Data | México City, México | Data Analysis | Remote | alejandra_pcastillo@outlook.com |
 
 ## [Peru](#Peru) 🇵🇪
 
