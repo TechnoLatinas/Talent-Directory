@@ -32,6 +32,7 @@ Find talented Technolatinas in this repository.
 
 |  Name    |  Area    |   Location    |   Skills    |   Type    |   Contact    |
 | ------------- |-------------| -----| ------------- |-------------| -----|
+| Alejandra Zerda | Web Developer (Drupal-WordPress) | Manizales, Colombia | - Desarrollo: Pixel perfect, HTML5, CSS3, Bootstrap, JS, Jquery, Twig, Git, Docker, Lando - CMS: WordPress, Drupal 7, 8 y 9 - Web Marketing: SEO, Webmaster, Google Analytics - Software: Illustrator, Photoshop, GIMP,Inkscape - Sistemas operativos: Windows, GNU/ Linux - Gestión de proyectos: Scrum, Agil, PMI" | Remote |  dev@alejandrazerda.com, [Github](https://github.com/cangreja533), [LinkedIn](https://www.linkedin.com/in/alejandrazerda/)  |
 
 ## [España](#ES-) 🇪🇸
 
