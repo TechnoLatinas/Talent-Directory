@@ -47,6 +47,7 @@ Find talented Technolatinas in this repository.
 | Sara Hernández | Data Science | Mexico City, Mexico | Data Analysis | Remote or On site | hdzhernandez.sara@gmail.com |
 | Alejandra Pérez | Data | México City, México | Data Analysis | Remote | alejandra_pcastillo@outlook.com |
 | Ana Cifuentes | DevOps - SRE | Sonora/México City | Cloud (AWS, ORACLE), Docker, IaC, Git, GitHub, GitHub Actions, Python, Node Js, Jira, Confluence, Datadog, Linux, Jenkins, SQL, Agile methodologies, Leadership, Science, Education | Remote | lupe_ci98@hotmail.com , [LinkedIn](https://www.linkedin.com/in/ana-cifuentes-sanchez/) |
+| Rocio Parada | Head of product | Mexico City, Mexico | Product management, Leadership, Agile methodologies, UX, Growth hacking | Remote or On site | [LinkedIn](https://www.linkedin.com/in/rparadamr/) |
 
 ## [Peru](#Peru) 🇵🇪
 
